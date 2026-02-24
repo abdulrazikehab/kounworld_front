@@ -1,8 +1,8 @@
 {
-  "name": "Koun Platform",
-  "short_name": "Koun",
-  "description": "Koun - Multidimensional Commerce Platform",
-  "start_url": "/dashboard",
+  "name": "Koun Store",
+  "short_name": "Store",
+  "description": "Koun - Personal Storefront Professional Commerce",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6366f1",
